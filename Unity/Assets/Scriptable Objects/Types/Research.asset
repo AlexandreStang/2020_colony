@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 271e80bc218d1054bb2bddd6cc314f27, type: 3}
+  m_Name: Research
+  m_EditorClassIdentifier: 
+  name: Research
+  icon: {fileID: 21300000, guid: 3206f7c9dc2bbb84198d27578e5dae30, type: 3}
+  color: {r: 0, g: 0.8039216, b: 0.9764706, a: 1}
+  gains:
+  - {fileID: 11400000, guid: be533b8feae42be498c7a5d07bffcec7, type: 2}
+  - {fileID: 11400000, guid: 875e9ea95877e4041bdd75e243fbc7d6, type: 2}
+  - {fileID: 11400000, guid: fbb667c302759974daeec931aa7167f1, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  losses:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 1fa39d261cf4b6747bb33fb9564f52a9, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

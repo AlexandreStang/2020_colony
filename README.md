@@ -13,7 +13,7 @@
 
 ## 🛠 Set Up
 
-#### IMPORTANT!
+#### ⚠️ IMPORTANT! ⚠️
 
 The project features many files with very long names. Make sure to clone the repo in a location with a shorter path or
 to configure Git to allow for long paths before attempting to clone.
